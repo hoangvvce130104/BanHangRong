@@ -1,6 +1,7 @@
 package com.example.banhangrong.Class;
 
 public class Bill {
+    //test git
     //declare variable
     private int billID;
     private int userID;
