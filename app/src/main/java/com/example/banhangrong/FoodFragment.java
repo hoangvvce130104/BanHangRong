@@ -38,6 +38,7 @@ import java.util.ArrayList;
  * create an instance of this fragment.
  */
 public class FoodFragment extends Fragment {
+    //
     private ScrollView foodScroll;
     private FoodModel foodModel;
     private ArrayList<Food> foods;
