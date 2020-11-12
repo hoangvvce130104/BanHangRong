@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:id="@+id/firstFragment"
+        android:icon="@drawable/home"
+        android:color="@color/colorPrimary"/>
+    <item android:title="Bill"
+        android:id="@+id/secondFragment"
+        android:icon="@drawable/bil"
+        android:color="#fff"
+        />
+    <item android:title="Nofify"
+        android:id="@+id/thirdFragment"
+        android:icon="@drawable/notify"
+        android:color="#fff"
+        />
+    <item android:title="Profile"
+        android:id="@+id/profileFragment"
+        android:icon="@drawable/person"
+        android:color="#fff"/>
+</menu>
